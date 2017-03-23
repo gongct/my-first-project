@@ -49,7 +49,6 @@ new Vue({
 // });
 
 // 现在，应用已经启动了！
-
 // router.start(app, '#app');
 
 // /* eslint-disable no-new */
